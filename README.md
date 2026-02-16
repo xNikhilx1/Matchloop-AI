@@ -281,6 +281,3 @@ MatchLoop AI currently uses Google's Gemma 3 27B model for analysis. While this 
 2. **Phase 2**: Industry-specific analysis and advanced algorithms
 3. **Phase 3**: Machine learning from user feedback and continuous improvement
 =======
-# Matchloop-AI
-MatchLoop AI is a full-stack web application that analyzes resume compatibility with job descriptions using LLM-based semantic analysis. Built with React and Python (Flask), it provides automated resume parsing, secure REST APIs, and dynamic match score generation with actionable skill-gap insights.
->>>>>>> 1ff10391eef4c9c6787adf146f8cb45494ddb7e2
