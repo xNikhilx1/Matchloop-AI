@@ -1,7 +1,10 @@
-<<<<<<< HEAD
 # MatchLoop AI
 
 A comprehensive web application that uses AI to analyze resume compatibility with job descriptions. Built with Python Flask backend and React frontend, designed to provide enterprise-grade recruitment solutions.
+
+## Project Preview
+
+![MatchLoop AI Screenshot](assets/preview.png)
 
 ## Features
 
